@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="ERA Update Site" url="https://svn.origo.ethz.ch/era/update-site-1.0/">
+      Origo update-site for the ERA project.
+   </description>
+   <feature url="features/era.foss_1.0.0.jar" id="era.foss" version="1.0.0">
+      <category name="ERA"/>
+   </feature>
+   <category-def name="ERA" label="Eclipse Requirements Analysis">
+      <description>
+         Eclipse-based editor for Requirements Analysis. The requirement model is based on RIF/ReqIF standards.
+      </description>
+   </category-def>
+</site>
